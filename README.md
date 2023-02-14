@@ -13,8 +13,9 @@ Zhang Zhen
 Tian Linxue
 Lim Zhi
 
-# References 
+# Introduction 
 Temperature detection, and set by button, notify the alarm temperature
+
 https://youtube.com/shorts/Zya-ZVJsYT4
 
 # components 
