@@ -14,12 +14,12 @@ Tian Linxue
 Lim Zhi
 
 # Introduction 
-Temperature detection, and set by button, notify the alarm temperature
+In this course design, an intelligent temperature detection and alarm system based on STM32F103 is implemented.to realize the collection and display of temperature, set the alarm temperature, and alarm the environment exceeding the set temperature.
 
-https://youtube.com/shorts/Zya-ZVJsYT4
+https://youtu.be/5GZ3V-UoJ7w
 
 # components 
-STM32F103C8T6+OLED+DS18b20
+STM32F103C8T6 microcontroller is selected as the main control chip and S18B20 temperature sensor to collect temperature data, and the temperature is displayed on the OLED LCD screen, and the buzzer and button are connected to set the alarm temperature. After the set temperature is exceeded, the alarm function is realized. The specific circuit can be seen in the figure below.
 
 # step 
 Create a new project in STM32CudeIDE
